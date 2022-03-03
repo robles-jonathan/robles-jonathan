@@ -3,9 +3,7 @@
 
 <h3 align="center">Inquisitive Software Developer with experience creating software solutions for government use. A desire to continue developing coupled with my ability to take initiative helped me to quickly master my last role in software development and this led to the decision to increase my technical skills. Looking forward to bringing my drive and passion for growth to a collaborative environment where I can contribute to developing innovative solutions for all types of clients.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robles-jonathan&label=Profile%20views&color=0e75b6&style=flat" alt="robles-jonathan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robles-jonathan&theme=algolia" alt="robles-jonathan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robles-jonathan&theme=algolia" alt="robles-jonathan" /></a> </p>
 
 - 🔭 I’m currently working on **my Capstone Project for Codeup**
 
@@ -36,8 +34,6 @@
 <a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robles-jonathan&theme=algolia" alt="robles-jonathan" />
 </a>
-<!-- <p align="center">
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robles-jonathan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="robles-jonathan" />
-</a>
-  </p> -->
+
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=robles-jonathan&label=Profile%20views&color=0e75b6&style=flat" alt="robles-jonathan" /> </p>
+
