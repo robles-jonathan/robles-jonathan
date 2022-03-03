@@ -27,13 +27,14 @@
 <hr>
 <p align="center"><a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robles-jonathan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="robles-jonathan" /></a></p>
-
-<a href="#">
+<div>
+  <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robles-jonathan&show_icons=true&locale=en&theme=algolia&layout=compact" alt="robles-jonathan" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robles-jonathan&theme=algolia" alt="robles-jonathan" />
 </a>
-
+</div>
+  
 <br><p align="left"> <img src="https://komarev.com/ghpvc/?username=robles-jonathan&label=Profile%20views&color=0e75b6&style=flat" alt="robles-jonathan" /> </p>
 
