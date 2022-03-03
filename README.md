@@ -27,7 +27,7 @@
 <hr>
 <p align="center"><a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robles-jonathan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="robles-jonathan" /></a></p>
-<div>
+<div align="center">
   <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robles-jonathan&show_icons=true&locale=en&theme=algolia&layout=compact" alt="robles-jonathan" />
 </a>
