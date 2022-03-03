@@ -25,8 +25,19 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jonathanrobles"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jonathanrobles" /></a></p><br><br><br>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=robles-jonathan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="robles-jonathan" /></p>
+<h3 align="center"> ⚡ Stats ⚡ </h3>
+<hr>
+<p align="center"><a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robles-jonathan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="robles-jonathan" /></a></p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=robles-jonathan&show_icons=true&locale=en&theme=algolia" alt="robles-jonathan" /></p>
-
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=robles-jonathan&theme=algolia" alt="robles-jonathan" /></p>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robles-jonathan&show_icons=true&locale=en&theme=algolia&layout=compact" alt="robles-jonathan" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robles-jonathan&theme=algolia" alt="robles-jonathan" />
+</a>
+<!-- <p align="center">
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robles-jonathan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="robles-jonathan" />
+</a>
+  </p> -->
